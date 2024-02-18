@@ -1,0 +1,7 @@
+export { default as WoodImage } from "./WoodImage.svg"
+export { default as WoodeloLogo } from "./WoodeloLogo.svg"
+export { default as NavMenuIcon } from "./NavMenuIcon.svg"
+export { default as NavMenuIcon_active } from "./NavMenuIcon_active.svg"
+export { default as HeartIcon } from "./HeartIcon.svg"
+export { default as FacebookIcon } from "./FacebookIcon.svg"
+export { default as PlayIcon } from "./PlayIcon.svg"
