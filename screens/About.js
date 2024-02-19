@@ -22,7 +22,6 @@ const About = () => {
     }
 
     return (
-        // <View className="flex-1 relative">
         <>
             {showYTPlayer && (<YoutubePlayer
                 height={220}
@@ -57,9 +56,6 @@ const About = () => {
                 </View>
             </View>
         </>
-
-        // </View>
-
     )
 }
 
